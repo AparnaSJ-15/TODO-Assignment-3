@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+Html, body{
+    height:100%;
+}
+
+.grandParentContaniner{
+    display:table; height:100%; margin: 0 auto;
+}
+
+.parentContainer{
+    display:table-cell; vertical-align:middle;
+}	
+.form1{
+    padding: 30px;
+    margin: 0 auto;
+    border: 2px solid rgb(249, 165, 30);
+    background-color:black;
+    color: white;
+    opacity: 0.8;
+    width: auto;
+}
+
+#list{
+    margin-left: 20px;
+    text-align: left;
+    margin-top: 30px;
+    /* border: 2px solid red; */
+}
+
+
+
